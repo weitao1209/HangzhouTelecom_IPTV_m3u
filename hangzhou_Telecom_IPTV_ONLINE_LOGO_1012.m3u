@@ -38,7 +38,7 @@ http://192.168.50.200:8686/rtp/233.50.201.220:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清" catchup="default" catchup-source="rtsp://115.233.41.137/PLTV/88888913/224/3221229331/74036079.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克4K
 http://192.168.50.200:8686/rtp/233.50.201.63:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
-http://192.168.50.200:8686/rtp/233.50.202.100:5140?fcc=115.233.40.137:8027
+http://192.168.50.200:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229453/128124469.smil?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视4K.png" group-title="4K超高清",广东卫视4K
 http://192.168.50.200:8686/rtp/233.50.202.101:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
