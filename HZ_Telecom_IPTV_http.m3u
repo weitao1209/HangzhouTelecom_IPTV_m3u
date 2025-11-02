@@ -133,8 +133,6 @@ http://192.168.50.200:8686/rtp/233.50.201.51:5140?fcc=115.233.40.137:8027
 http://192.168.50.200:8686/rtp/233.50.202.45:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://192.168.50.200:8686/rtp/233.50.202.46:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/延边卫视.png" group-title="卫视",延边卫视
-http://192.168.50.200:8686/rtp/233.50.200.184:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV1.png" group-title="卫视",中国教育1台
 http://192.168.50.200:8686/rtp/233.50.200.169:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV4.png" group-title="卫视",中国教育4台
