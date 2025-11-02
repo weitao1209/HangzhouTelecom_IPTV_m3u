@@ -225,14 +225,6 @@ http://192.168.50.200:8686/rtp/233.50.201.187:5140?fcc=115.233.40.137:8027
 http://192.168.50.200:8686/rtp/233.50.201.188:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
 http://192.168.50.200:8686/rtp/233.50.201.109:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="付费",睛彩竞技
-http://192.168.50.200:8686/rtp/233.50.202.26:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="付费",睛彩篮球
-http://192.168.50.200:8686/rtp/233.50.202.27:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩青少.png" group-title="付费",睛彩青少
-http://192.168.50.200:8686/rtp/233.50.202.28:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩广场舞.png" group-title="付费",睛彩广场舞
-http://192.168.50.200:8686/rtp/233.50.202.29:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其他",东方财经
 http://192.168.50.200:8686/rtp/233.50.200.177:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/第一财经.png" group-title="其他",第一财经
