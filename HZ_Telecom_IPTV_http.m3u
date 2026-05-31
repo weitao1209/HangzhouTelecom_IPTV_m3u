@@ -168,7 +168,7 @@ http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229202/5922
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN.png" group-title="国际",CGTN
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228108/10000100000000060000000002707382_0.smil
 #EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/多彩文体4K.png" group-title="4K超高清",多彩文体4K
-http://192.168.50.150:8686/rtp/233.50.200.52:5140?fcc=115.233.41.137:8027
+http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil
 #EXTINF:-1 tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-1
 http://192.168.50.150:8686/rtp/233.50.200.182:5140?fcc=115.233.41.137:8027
 #EXTINF:-1 tvg-id="BesTV-2" tvg-name="BesTV-2" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-2
@@ -178,7 +178,7 @@ http://192.168.50.150:8686/rtp/233.50.200.185:5140?fcc=115.233.41.137:8027
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/欢笑剧场.png" group-title="付费",欢笑剧场
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/都市剧场.png" group-title="付费",都市剧场
-http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil
+http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229244/72486950.smil
 #EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/法制天地.png" group-title="付费",法制天地
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229323/72486984.smil
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/动漫秀场.png" group-title="付费",动漫秀场
