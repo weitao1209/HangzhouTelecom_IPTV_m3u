@@ -81,47 +81,47 @@ http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229468/1360
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山东卫视.png" group-title="4K超高清",山东卫视4K
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江卫视.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江卫视.png" group-title="卫视高清",浙江卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228012/10000100000000060000000000794032_0.smil
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视.png" group-title="卫视高清",深圳卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221227988/10000100000000060000000000794038_0.smil
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视.png" group-title="卫视高清",广东卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228011/10000100000000060000000000794034_0.smil
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/湖南卫视.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/湖南卫视.png" group-title="卫视高清",湖南卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221227983/10000100000000060000000000794037_0.smil
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/天津卫视.png" group-title="卫视",天津卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/天津卫视.png" group-title="卫视高清",天津卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228016/10000100000000060000000000794035_0.smil
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山东卫视.png" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山东卫视.png" group-title="卫视高清",山东卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221227978/10000100000000060000000000794036_0.smil
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/江苏卫视.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/江苏卫视.png" group-title="卫视高清",江苏卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228067/10000100000000060000000001063212_0.smil
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视.png" group-title="卫视高清",北京卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228080/10000100000000060000000001063209_0.smil
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/纪实科教.png" group-title="卫视",纪实科教
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/纪实科教.png" group-title="卫视高清",纪实科教
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229419/110036300.smil
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/四川卫视.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/四川卫视.png" group-title="卫视高清",四川卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229046/10000100000000060000000004835838_0.smil
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/河北卫视.png" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/河北卫视.png" group-title="卫视高清",河北卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229050/10000100000000060000000004836297_0.smil
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/辽宁卫视.png" group-title="卫视高清",辽宁卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229042/10000100000000060000000004835836_0.smil
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/贵州卫视.png" group-title="卫视",贵州卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/贵州卫视.png" group-title="卫视高清",贵州卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229044/10000100000000060000000004835835_0.smil
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/重庆卫视.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/重庆卫视.png" group-title="卫视高清",重庆卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229061/10000100000000060000000004835834_0.smil
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/河南卫视.png" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/河南卫视.png" group-title="卫视高清",河南卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229057/10000100000000060000000004835833_0.smil
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/江西卫视.png" group-title="卫视",江西卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/江西卫视.png" group-title="卫视高清",江西卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229127/10000100000000060000000004835832_0.smil
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东南卫视.png" group-title="卫视",东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东南卫视.png" group-title="卫视高清",东南卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229040/10000100000000060000000004835831_0.smil
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/安徽卫视.png" group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/安徽卫视.png" group-title="卫视高清",安徽卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228120/10000100000000060000000002242150_0.smil
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/湖北卫视.png" group-title="卫视",湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/湖北卫视.png" group-title="卫视高清",湖北卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228102/10000100000000060000000002242149_0.smil
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/黑龙江卫视.png" group-title="卫视高清",黑龙江卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228068/10000100000000060000000002242148_0.smil
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方卫视.png" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方卫视.png" group-title="卫视高清",东方卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228140/10000100000000060000000002670196_0.smil
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://myepg.org/Zhejiang_Telecom_IPTV/Logo/西藏卫视.png" group-title="卫视高清",西藏卫视高清
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229457/134307492.smil
@@ -163,7 +163,7 @@ http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229423/1100
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229420/110036417.smil
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229202/59229692.smil
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN.png" group-title="国际",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN.png" group-title="央视",CGTN
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228108/10000100000000060000000002707382_0.smil
 #EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/多彩文体4K.png" group-title="4K超高清",多彩文体4K
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil
