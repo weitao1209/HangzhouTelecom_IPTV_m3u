@@ -123,13 +123,13 @@ http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228102/1000
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228068/10000100000000060000000002242148_0.smil
 #EXTINF:-1 tvg-chno="062" tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方卫视.png" group-title="卫视高清",东方卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221228140/10000100000000060000000002670196_0.smil
-#EXTINF:-1 tvg-chno="063" tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://myepg.org/Zhejiang_Telecom_IPTV/Logo/西藏卫视.png" group-title="卫视高清",西藏卫视
+#EXTINF:-1 tvg-chno="063" tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://github.com/LionixQ/Zhejiang_Telecom_IPTV/blob/main/Logo/西藏卫视.png" group-title="卫视高清",西藏卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229457/134307492.smil
-#EXTINF:-1 tvg-chno="064" tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://myepg.org/Zhejiang_Telecom_IPTV/Logo/兵团卫视.png" group-title="卫视高清",兵团卫视
+#EXTINF:-1 tvg-chno="064" tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://github.com/LionixQ/Zhejiang_Telecom_IPTV/blob/main/Logo/兵团卫视.png" group-title="卫视高清",兵团卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229461/134307530.smil
-#EXTINF:-1 tvg-chno="065" tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://myepg.org/Zhejiang_Telecom_IPTV/Logo/宁夏卫视.png" group-title="卫视高清",宁夏卫视
+#EXTINF:-1 tvg-chno="065" tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://github.com/LionixQ/Zhejiang_Telecom_IPTV/blob/main/Logo/宁夏卫视.png" group-title="卫视高清",宁夏卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229462/134307486.smil
-#EXTINF:-1 tvg-chno="066" tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://myepg.org/Zhejiang_Telecom_IPTV/Logo/新疆卫视.png" group-title="卫视高清",新疆卫视
+#EXTINF:-1 tvg-chno="066" tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://github.com/LionixQ/Zhejiang_Telecom_IPTV/blob/main/Logo/新疆卫视.png" group-title="卫视高清",新疆卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
 #EXTINF:-1 tvg-chno="067" tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://192.168.50.150:8686/rtsp/115.233.41.137/PLTV/88888913/224/3221229052/10000100000000060000000004969230_0.smil
